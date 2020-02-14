@@ -10,7 +10,9 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Welcome!</h1>
-    <p>Hi, I am Meron Sibani Software Developer</p>
+    <p>It only ends once. Anything that happens before that is just progress.</p>
+
+    <span>— Jacob, Lost</span>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
