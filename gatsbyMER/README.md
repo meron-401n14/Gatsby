@@ -6,7 +6,7 @@
 
 ##### Links and Resources
 * [submission PR](https://github.com/meron-401n14/gatsby/tree/master/gatsbyMER)
-* [Heroku](https://lab-13app.herokuapp.com/)
+* [Heroku](https://jovial-brattain-c6a41a.netlify.com/)
 
 
 
@@ -23,6 +23,7 @@
 
 ### Setup
 * locally / info gatsby serve running at: http://localhost:9000/
+* 
 
 
 #### Running the app
