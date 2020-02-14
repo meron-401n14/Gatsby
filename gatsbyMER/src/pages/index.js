@@ -15,7 +15,7 @@ const IndexPage = () => (
       <Image />
     </div>
     
-    <Link to="/#">Phone:206 250 1117</Link>
+    <Link to="/#">Phone:206 250 111</Link>
   </Layout>
 )
 
