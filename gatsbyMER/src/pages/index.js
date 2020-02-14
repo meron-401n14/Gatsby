@@ -10,15 +10,15 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Welcome!</h1>
-    <p>Meron Sibani</p>
-    <p>Software Developer.</p>
-    <p>Enjoy Counting</p>
+    <p>Hi, I am Meron Sibani Software Developer</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
     
-    <Link to="/page-2/">Go to page 2</Link>
+    <Link to="/#">Phone:206 250 1117</Link>
   </Layout>
 )
 
 export default IndexPage
+    
+   

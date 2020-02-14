@@ -5,9 +5,10 @@ import React from "react"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `#29293d`,
+      background: `#3d5c5c`,
       marginBottom: `1rem`,
       opacity:0.7,
+     
       
     }}
   >
@@ -16,6 +17,7 @@ const Header = ({ siteTitle }) => (
         margin: `0 auto`,
         maxWidth: 960,
         padding: `1.45rem 1.0875rem`,
+      
       }}
     >
       <h1 style={{ margin: 0 }}>
@@ -29,7 +31,17 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
+      <div>
+     
+      <nav>
+      <Link to="/"><li>Home</li></Link>
+        <Link to="/page-2/"><li>Counter</li></Link>
+      </nav>
+
+      </div>
+
     </div>
+
   </header>
 )
 
@@ -42,3 +54,7 @@ Header.defaultProps = {
 }
 
 export default Header
+
+   
+
+ 

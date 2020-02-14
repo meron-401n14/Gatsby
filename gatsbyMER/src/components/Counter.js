@@ -2,6 +2,13 @@
 import React from 'react'
 
 
+/**
+ * @constructor props  pass state 
+ * @function  increment take no param and count start from 1
+ * @function decrement take no param and decrease number by 1 
+ */
+
+
 class Counter extends React.Component {
 
   constructor(props){
@@ -24,7 +31,7 @@ class Counter extends React.Component {
   render(){
     return (
       <div>
-        <button onClick={this.increment}>Click to increment</button>
+        <button id="btn" onClick={this.increment}>Click to increment</button>
         <button onClick={this.decrement}>Click to decrement</button>
     <p>{this.state.count}</p>
       </div>
@@ -34,27 +41,6 @@ class Counter extends React.Component {
 }
 
 
-
-
-// const Counter = () =>{
-//     const [count, setCount] = useState(0)
-
-//          increaseAndLog = () => {
-//          setCount(count + 1)
-
-//         console.log('we are console logging as well as updating!')
-//     }
-
-//    return (
-//      <div>
-//        <button onClick={increaseAndLog}>Click to increment</button>
-//        <button onClick={()=> setCount(count -1)}>Click to decrement</button>
-//        <p>{count}</p>
-//      </div>
-//    )
-
-
-// }
 
 
 
