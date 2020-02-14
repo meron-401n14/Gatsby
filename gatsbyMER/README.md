@@ -22,8 +22,7 @@
 
 
 ### Setup
-#### `.env` requirements
-* `PORT` - 8000
+* locally / info gatsby serve running at: http://localhost:9000/
 
 
 #### Running the app
