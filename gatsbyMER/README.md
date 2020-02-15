@@ -6,7 +6,8 @@
 
 ##### Links and Resources
 * [submission PR](https://github.com/meron-401n14/gatsby/tree/master/gatsbyMER)
-* [Heroku](https://jovial-brattain-c6a41a.netlify.com/)
+* [netlify-gatsby](https://jovial-brattain-c6a41a.netlify.com/)
+* [Heroku-next](https://nextappone.herokuapp.com/)
 
 
 
@@ -21,9 +22,17 @@
 * page-2.js
 
 
-### Setup
-* locally / info gatsby serve running at: http://localhost:9000/
-* 
+### Setup to run locally 
+* 1.  gatsby 
+  - a. cd gatsbyMER
+  - b. npm run develop
+  - c.gatsby develop 
+* locally / info gatsby serve running at: http://localhost:8000/
+
+* Next 
+  - 1. npm run dev
+  - 2. http://localhost:3000;
+
 
 
 #### Running the app
