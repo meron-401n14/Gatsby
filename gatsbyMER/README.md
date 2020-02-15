@@ -5,7 +5,8 @@
 ##### Author: Meron
 
 ##### Links and Resources
-* [submission PR](https://github.com/meron-401n14/gatsby/tree/master/gatsbyMER)
+* [submission PR for gatsby](https://github.com/meron-401n14/gatsby/tree/master/gatsbyMER)
+* [submission PR for next](https://github.com/meron-401n14/nextApp/branches)
 * [netlify-gatsby](https://jovial-brattain-c6a41a.netlify.com/)
 * [Heroku-next](https://nextappone.herokuapp.com/)
 
